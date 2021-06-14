@@ -1,0 +1,13 @@
+C:\Users\Jason\source\repos\RuneImageCollector\RuneImageCollector\bin\Debug\netcoreapp3.1\RuneImageCollector.exe
+C:\Users\Jason\source\repos\RuneImageCollector\RuneImageCollector\bin\Debug\netcoreapp3.1\RuneImageCollector.deps.json
+C:\Users\Jason\source\repos\RuneImageCollector\RuneImageCollector\bin\Debug\netcoreapp3.1\RuneImageCollector.runtimeconfig.json
+C:\Users\Jason\source\repos\RuneImageCollector\RuneImageCollector\bin\Debug\netcoreapp3.1\RuneImageCollector.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\RuneImageCollector\RuneImageCollector\bin\Debug\netcoreapp3.1\RuneImageCollector.dll
+C:\Users\Jason\source\repos\RuneImageCollector\RuneImageCollector\bin\Debug\netcoreapp3.1\RuneImageCollector.pdb
+C:\Users\Jason\source\repos\RuneImageCollector\RuneImageCollector\obj\Debug\netcoreapp3.1\RuneImageCollector.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\RuneImageCollector\RuneImageCollector\obj\Debug\netcoreapp3.1\RuneImageCollector.AssemblyInfo.cs
+C:\Users\Jason\source\repos\RuneImageCollector\RuneImageCollector\obj\Debug\netcoreapp3.1\RuneImageCollector.csproj.CoreCompileInputs.cache
+C:\Users\Jason\source\repos\RuneImageCollector\RuneImageCollector\obj\Debug\netcoreapp3.1\RuneImageCollector.dll
+C:\Users\Jason\source\repos\RuneImageCollector\RuneImageCollector\obj\Debug\netcoreapp3.1\RuneImageCollector.pdb
+C:\Users\Jason\source\repos\RuneImageCollector\RuneImageCollector\obj\Debug\netcoreapp3.1\RuneImageCollector.genruntimeconfig.cache
+C:\Users\Jason\source\repos\RuneImageCollector\RuneImageCollector\obj\Debug\netcoreapp3.1\RuneImageCollector.csprojAssemblyReference.cache
